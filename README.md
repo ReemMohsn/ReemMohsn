@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ReemMohsen</h1>
-<h3 align="center">An IT student and UX UI designer from Yemen</h3>
+<h3 align="center">An IT student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reemmohsn&label=Profile%20views&color=0e75b6&style=flat" alt="reemmohsn" /> </p>
 
